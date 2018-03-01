@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/DizDonut/precision/issues"
   },
-  "homepage": "https://github.com/DizDonut/precision#readme"
+  "homepage": "https://github.com/DizDonut/precision#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "node-fetch": "^2.0.0",
+    "nodeman": "^1.1.2"
+  }
 }

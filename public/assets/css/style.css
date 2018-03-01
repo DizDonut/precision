@@ -1,0 +1,49 @@
+body, html{ height: 100%; }
+body {
+  font-family: "Teko", sans-serif;
+}
+
+header > .navBar {
+  display: inline-block;
+  float: right;
+  padding: 10px;
+}
+
+.parallax {
+  background-image: url("/images/car2.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("/images/car1.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn{
+  width: 100%;
+  border-radius: 0px;
+  background-color: lightgrey;
+  border: 2px solid black;
+  font
+}
+
+.buttons {
+  margin-top: 30%;
+}
+
+.panel {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.secondPanel {
+  margin-top: 0% !important;
+}
